@@ -1,0 +1,23 @@
+bool find_mutually_opposite_values(int* arr, int size);
+bool find_all_positive_values(int* arr, int size);
+bool find_all_negative_values(int* arr, int size);
+bool find_all_odd_values(int* arr, int size);
+bool find_all_even_values(int* arr, int size);
+bool find_positive_values(int* arr, int size);
+bool find_negative_values(int* arr, int size);
+bool find_one_positive_value(int* arr, int size);
+bool find_one_negative_value(int* arr, int size);
+bool find_most_positive_values(int* arr, int size);
+bool find_most_negative_values(int* arr, int size);
+bool find_less_positive_values(int* arr, int size);
+bool find_less_negative_values(int* arr, int size);
+bool find_most_even_values(int* arr, int size);
+bool find_most_odd_values(int* arr, int size);
+bool find_less_even_values(int* arr, int size);
+bool find_less_odd_values(int* arr, int size);
+bool find_even_value(int* arr, int size);
+bool find_odd_value(int* arr, int size);
+bool find_one_even_value(int* arr, int size);
+bool find_one_odd_value(int* arr, int size);
+bool find_equal_even_value(int* arr, int size);
+
